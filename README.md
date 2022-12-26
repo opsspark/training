@@ -18,5 +18,10 @@
 - Demo 7.2
 - Lab 7.1
 - Lab 7.2
+#### Lesson 08 - AWS Auto Scaling Group
+- [Slide](https://docs.google.com/presentation/d/1umt-Wd6cKOxB7IkZRa9N1Tzt90y0oeGoq86LVYzHzJg/edit?usp=sharing)
+- Demo 8.1
+- Demo 8.2
+- Lab 8.1
 
 
