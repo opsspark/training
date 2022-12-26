@@ -12,6 +12,12 @@
 ### Linux Skills for DevOps
 ### Security Awareness for DevOps
 ### AWS Fundamentals for DevOps
+#### Lesson 01 - AWS High Availability and Scalability
+- [Slide](https://docs.google.com/presentation/d/1Cwr_2pfIFlgyJfLHiz7E2FL1gmx3p_pXxtSme_03_gk/edit?usp=sharing)
+- Demo 1.1
+- Demo 1.2
+- Lab 1.1
+- Lab 1.2
 #### Lesson 07 - AWS High Availability and Scalability
 - [Slide](https://docs.google.com/presentation/d/17RHLsl0ELOx5y_z0fpqZ6tEA2BwBstaGHniHwnc9_x4/edit?usp=sharing)
 - Demo 7.1
