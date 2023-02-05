@@ -24,7 +24,7 @@
 - Demo 5.2: Security groups hands-on
 - Demo 5.3: EC2 instance access
 - Lab 1.1: EC2 and security groups practice
-- Lab 1.2: EC2 and security groups code provision
+- Lab 1.2: EC2 and security groups by code provision
 #### Lesson 07 - AWS High Availability and Scalability
 - [Slide](https://docs.google.com/presentation/d/17RHLsl0ELOx5y_z0fpqZ6tEA2BwBstaGHniHwnc9_x4/edit?usp=sharing)
 - Demo 7.1
